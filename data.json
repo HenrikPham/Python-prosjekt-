@@ -1,0 +1,72 @@
+{ 
+    "books": [ 
+        { 
+        "title": "1984", 
+        "author": "George Orwell", 
+        "year": 1949, 
+        "availability": true 
+        }, 
+        { 
+        "title": "To Kill a Mockingbird", 
+        "author": "Harper Lee", 
+        "year": 1960, 
+        "availability": true 
+        }, 
+        { 
+        "title": "The Great Gatsby", 
+        "author": "F. Scott Fitzgerald", 
+        "year": 1925, 
+        "availability": false 
+        },
+        {
+        "title": "harry potter and the philosopher's stone",
+        "author": "J.K. Rowling",
+        "year": 1997,
+        "availability": true
+        },
+        {
+        "title": "the hobbit",
+        "author": "J.R.R. Tolkien",
+        "year": 1937,
+        "availability": false
+        }, 
+        {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "year": 1813,
+        "availability": true
+        }, 
+        {
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "year": 1951,
+        "availability": false
+        }, 
+        {
+        "title": "The Lord of the Rings",
+        "author": "J.R.R. Tolkien",
+        "year": 1954,
+        "availability": true
+        }, 
+        {
+        "title": "animal farm",
+        "author": "george orwell",
+        "year": 1945,
+        "availability": true
+        }, 
+        {
+        "title": "the chronicles of narnia",
+        "author": "c.s. lewis",
+        "year": 1950,
+        "availability": false
+        }, 
+        {
+        "title": "Cat Worriors",
+        "author": "Erin Hunter",
+        "year": 2003,
+        "availability": true
+        }
+    ]
+
+
+}
