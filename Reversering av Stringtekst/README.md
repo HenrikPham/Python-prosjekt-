@@ -1,1 +1,1 @@
-# Velkommen til Reversering av Stribgtekstsundermappen 
+# Velkommen til Reversering av Stringtekst-undermappen 
