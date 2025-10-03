@@ -1,0 +1,59 @@
+{
+  "books": [
+    {
+      "title": "1984",
+      "author": "George Orwell",
+      "availability": true
+    },
+    {
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "availability": false
+    },
+    {
+      "title": "The Great Gatsby",
+      "author": "F, Scott Fitzgerald",
+      "availability": true
+    },
+    {
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "author": "J.K. Rowling",
+      "availability": true
+    },
+    {
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "availability": false
+    },
+    {
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "availability": true
+    },
+    {
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "availability": true
+    },
+    {
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "availability": false
+    },
+    {
+      "title": "Animal Farm",
+      "author": "George Orwell",
+      "availability": true
+    },
+    {
+      "title": "The Chronicles of Narnia",
+      "author": "C.S. Lewis",
+      "availability": true
+    },
+    {
+      "title": "Cat Warriors",
+      "author": "Erin Hunter",
+      "availability": true
+    }
+  ]
+}
